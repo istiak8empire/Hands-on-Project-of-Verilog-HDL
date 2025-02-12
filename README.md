@@ -1,16 +1,13 @@
 # Hands-on-Project-of-Verilog-HDL
 
 
-
-# Verilog HDL: Modeling, Simulation and Synthesis
-
 Verilog HDL is a hardware description language that models electronic systems. It is widely used in designing and verifying digital circuits at various levels of abstraction.
 
 ## A. Modelling:
 
 1. **Behavioral Modelling:** Describes the circuit's functionality without concern for hardware implementation. It focuses on the input-output behavior.
 
-2. **Dataflow Modelling:** Describes the flow of data through the circuit using continuous assignments.
+2. **Dataflow Modelling:** Describes the data flow through the circuit using continuous assignments.
 
 3. **Structural Modelling:** Describes the circuit in terms of components and their interconnections, similar to a schematic diagram.
 
